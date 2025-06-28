@@ -1,1 +1,170 @@
 *       @Nicca42 @opmxwell @opjulian @cpengilly @krofax @bradleycamacho
+2025-06-29"wallet": {
+ "id": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+ "name": "hassanhazimeh@trust",
+ "assets": {
+ "bitcoin": {
+ "balance": 91,
+ "currency": "BTC",
+ "routes": [
+          {
+            "txid": "tx0001",
+            "from": "1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp",
+            "from_name": "genesis@trust",
+            "to": "alice@trust",
+            "amount": 40,
+            "timestamp": "2025-06-21T08:00:00Z"
+          },
+          {
+            "txid": "tx0002",
+            "from": "1CounterpartyXXXXXXXXXXXXXXXUWLpVr",
+            "from_name": "genesis@trust",
+            "to": "bob@trust",
+            "amount": 30,
+            "timestamp": "2025-06-21T13:30:00Z"
+          },
+          {
+            "txid": "tx0003",
+            "from": "alice@trust",
+            "to": "carol@trust",
+            "amount": 10,
+            "timestamp": "2025-06-22T09:05:00Z"
+          },
+          {
+            "txid": "tx0004",
+            "from": "alice@trust",
+            "to": "dave@trust",
+            "amount": 20,
+            "timestamp": "2025-06-22T12:12:00Z"
+          },
+          {
+            "txid": "tx0005",
+            "from": "bob@trust",
+            "to": "eve@trust",
+            "amount": 15,
+            "timestamp": "2025-06-23T07:30:00Z"
+          },
+          {
+            "txid": "tx0006",
+            "from": "bob@trust",
+            "to": "frank@trust",
+            "amount": 10,
+            "timestamp": "2025-06-23T11:00:00Z"
+          },
+          {
+            "txid": "tx0007",
+            "from": "carol@trust",
+            "to": "grace@trust",
+            "amount": 10,
+            "timestamp": "2025-06-24T13:44:00Z"
+          },
+          {
+            "txid": "tx0008",
+            "from": "dave@trust",
+            "to": "heidi@trust",
+            "amount": 15,
+            "timestamp": "2025-06-25T09:15:00Z"
+          },
+          {
+            "txid": "tx0009",
+            "from": "eve@trust",
+            "to": "ivan@trust",
+            "amount": 10,
+            "timestamp": "2025-06-25T17:40:00Z"
+          },
+          {
+            "txid": "tx0010",
+            "from": "frank@trust",
+            "to": "judy@trust",
+            "amount": 10,
+            "timestamp": "2025-06-25T21:32:00Z"
+          },
+          {
+            "txid": "tx0011",
+            "from": "grace@trust",
+            "to": "mallory@trust",
+            "amount": 10,
+            "timestamp": "2025-06-26T08:10:00Z"
+          },
+          {
+            "txid": "tx0012",
+            "from": "heidi@trust",
+            "to": "oscar@trust",
+            "amount": 15,
+            "timestamp": "2025-06-26T21:10:00Z"
+          },
+          {
+            "txid": "tx0013",
+            "from": "ivan@trust",
+            "to": "peggy@trust",
+            "amount": 10,
+            "timestamp": "2025-06-27T10:00:00Z"
+          },
+          {
+            "txid": "tx0014",
+            "from": "judy@trust",
+            "to": "trent@trust",
+            "amount": 10,
+            "timestamp": "2025-06-27T16:00:00Z"
+          },
+          {
+            "txid": "tx0015",
+            "from": "mallory@trust",
+            "to": "victor@trust",
+            "amount": 10,
+            "timestamp": "2025-06-28T06:30:00Z"
+          },
+          {
+            "txid": "tx0016",
+            "from": "oscar@trust",
+            "to": "wendy@trust",
+            "amount": 15,
+            "timestamp": "2025-06-28T13:20:00Z"
+          },
+          {
+            "txid": "tx0017",
+            "from": "peggy@trust",
+            "to": "hassanhazimeh@trust",
+            "amount": 5,
+            "timestamp": "2025-06-29T03:00:00Z"
+          },
+          {
+            "txid": "tx0018",
+            "from": "trent@trust",
+            "to": "hassanhazimeh@trust",
+            "amount": 5,
+            "timestamp": "2025-06-29T04:22:00Z"
+          },
+          {
+            "txid": "tx0019",
+            "from": "victor@trust",
+            "to": "hassanhazimeh@trust",
+            "amount": 6,
+            "timestamp": "2025-06-29T05:32:00Z"
+          },
+          {
+            "txid": "tx0020",
+            "from": "wendy@trust",
+            "to": "hassanhazimeh@trust",
+            "amount": 15,
+            "timestamp": "2025-06-29T07:15:00Z"
+          },
+          {
+            "txid": "tx0021",
+            "from": "grace@trust",
+            "to": "hassanhazimeh@trust",
+            "amount": 10,
+            "timestamp": "2025-06-29T08:40:00Z"
+          },
+          {
+            "txid": "tx0022",
+            "from": "dave@trust",
+            "to": "hassanhazimeh@trust",
+            "amount": 5,
+            "timestamp": "2025-06-29T09:55:00Z"
+          }
+        ]
+ }
+ }
+ }
+}
